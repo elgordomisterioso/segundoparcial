@@ -31,7 +31,7 @@ ul li {
 #cuerpo{/*centralisando, poniendo el tipo de letra y tamaño de mis letras*/
     text-align: center;
     font-family: aharoni;
-    font-size: 15px;
+    font-size: 20px;
 }
 #pie{/*poniendole color a mis pie de linea*/
     background: #0080FF;
@@ -52,7 +52,7 @@ form{
     padding: 1em;
     border: 1px solid #000 ;
     border-radius: 1em;
-    background: white
+    background: black
 
 }
 form div{
