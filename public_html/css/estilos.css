@@ -20,7 +20,7 @@ ul li {
     list-style-type: none;
     background: #F7FE2E;
     display: inline;
-    font-size: 25px;
+    font-size: 28px;
     font-weight: bold;
     padding: 10px;
     border-radius: 10px;
@@ -32,15 +32,17 @@ ul li {
     text-align: center;
     font-family: aharoni;
     font-size: 20px;
+    
+    
 }
-#pie{/*poniendole color a mis pie de linea*/
-    background: #0080FF;
+#parrafo{/*poniendole color a mis pie de linea*/
+    background: #F7FE2E;
     text-align: center;
 
 }
-a:hober{
-    color: white;
-    font-size: 28px;
+a:hover{
+    color: red;
+    font-size: 35px;
 }
 a{
     text-decoration: none;
@@ -48,9 +50,9 @@ a{
 form{
     /*centrando el formulario y poniendo borde*/
     margin: 0 auto;
-    width: 600px;
+    width: 800px;
     padding: 1em;
-    border: 1px solid #000 ;
+    border: 2px solid #000 ;
     border-radius: 1em;
     background: black
 
@@ -78,7 +80,7 @@ label{
 }
 input, textArea{/*Aplicando el tipo y tamaño de letras*/
     font: 1em Aral;
-    width:  300px;
+    width:  200px;
 
 }
 input:focus, textArea:focus{
@@ -93,6 +95,6 @@ h1{
     text-align: center;
 }
 #fondo{/*poniendo el color a mi lista de contactos y el color del menu */
-    background: #0080FF;
-    color: yellowgreen
+    background: #F7FE2E;
+    color: yellow
 }
